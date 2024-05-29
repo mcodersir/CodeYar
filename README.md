@@ -1,6 +1,6 @@
 # CodeYar
 Iranian Google Chrome New Tab extension has new features
-# Version 0.0.1 beta
+# Version 0.0.02 beta
 # How to install the plugin
 Download the zip file and activate the developer modes from the left side of Chrome extensions settings and click "Load unpacked" option and upload the "zip" file and then activate it with the activation indicator.
 The end of the plugin is active, use it or develop it.
